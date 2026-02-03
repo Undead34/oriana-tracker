@@ -36,7 +36,7 @@ JavaScript: Con promesas y async/await para simular una base de datos real (¡pr
 
 Clona el repo:
 
-git clone [https://github.com/tu-usuario/oriana-tracker.git](https://github.com/tu-usuario/oriana-tracker.git)
+git clone [https://github.com/Undead34/oriana-tracker.git](https://github.com/Undead34/oriana-tracker.git)
 
 
 Instala las dependencias:
