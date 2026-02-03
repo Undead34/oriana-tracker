@@ -1,17 +1,70 @@
-# React + Vite
+🎀 Oriana's Tracker: The Main Character Dashboard ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Holis! Bienvenida al repo más aesthetic de todos. 💖
 
-Currently, two official plugins are available:
+Este proyecto es una Landing Page & Tracker diseñada exclusivamente para Oriana, la estrella de NetReady (hasta el momento). Aquí registramos sus récords diarios, momentos icónicos y updates importantes con un estilo súper fresa coder girl. 💅🏻💻
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features (Lo que hace esta joyita)
 
-## React Compiler
+📝 Mood Board Interactivo: Registra si Ori llegó temprano (¡milagro!), si fue al gym o si trajo chisme nuevo (sabroso!).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💾 Persistencia de Datos: Usa LocalStorage con un patrón de diseño Adapter (súper pro, no tanto como su código Flutter) para que no se borren los datos al recargar. ¡Si falla, tiene memoria de respaldo blindada!
 
-## Expanding the ESLint configuration
+📱 Diseño Responsivo: Se ve increíble tanto en el monitor de la ofi como en el celular (O eso espero).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# oriana-tracker
+🎨 UI Super Cute:
+
+Efecto Glassmorphism (cristal borroso).
+
+Animaciones suaves y burbujas de fondo.
+
+Tipografía Quicksand y Space Mono.
+
+Paleta de colores rosas, lilas y pasteles.
+
+🛠️ Tech Stack (El código detrás del glamour)
+
+React: Porque somos modernas. ⚛️
+
+Tailwind CSS: Para que el estilo quede on point rápido. 💨
+
+Lucide React: Iconos minimalistas y lindos. 💎
+
+JavaScript: Con promesas y async/await para simular una base de datos real (¡preparado para el futuro!).
+
+🚀 Cómo correr el proyecto
+
+Clona el repo:
+
+git clone [https://github.com/tu-usuario/oriana-tracker.git](https://github.com/tu-usuario/oriana-tracker.git)
+
+
+Instala las dependencias:
+
+npm install
+# o si eres team yarn:
+yarn
+
+
+Corre el servidor de desarrollo:
+
+npm run dev
+
+
+¡Listo! Abre tu navegador y disfruta de la magia. ✨
+
+💖 Contribuciones
+
+Si quieres agregar más brillo o nuevas funcionalidades:
+
+Haz un Fork.
+
+Crea tu Feature Branch (git checkout -b feature/MasBrillo).
+
+Haz Commit (git commit -m 'Add: Más rosa por favor').
+
+Haz Push (git push origin feature/MasBrillo).
+
+Abre un Pull Request.
+
+Hecho con mucho 💖, código limpio y café para la mejor amiga del mundo.
